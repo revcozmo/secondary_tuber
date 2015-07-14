@@ -1,0 +1,31 @@
+<!doctype html>
+
+<html>
+
+<head>
+
+<title>secondary_tuber</title>
+
+<style></style>
+
+</head>
+<body>
+
+<h1>power off/on</h1>
+<p>this section will run the app. this is actually the main button that is used as the app icon</p>
+
+<h1>pick a nearby user</h1>
+<p>upon activation the app will activate its gps to find other users within 1, 5, 10, 25 or 50 miles</p>
+<p> the user will see the other nearby, active users in a list of links</p>
+<p> when a user link is chosen the msg screen will appear that is dedicated to that individual</p>
+
+<h1>send him/her a message</h1>
+<p>now the fun part. the user will type a message to the recipient</p>
+<p>then the app will alert the recipient, keeping the new message on hold until it is read</p>
+<p> when the recipient opens the message the timer starts</p>
+<p> when the 30 second timer elapses the message is erased from the recipient app (it is automatically erased from the sender app as soon as he/she pushes send</p>
+
+
+</body>
+
+</html>
